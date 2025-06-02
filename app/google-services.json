@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162472105855",
+    "project_id": "twinmind-assignment-68fbb",
+    "storage_bucket": "twinmind-assignment-68fbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162472105855:android:ac019d7d407ee829982c4a",
+        "android_client_info": {
+          "package_name": "com.example.twinmindassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVMc0NdBCO9BlpjnWebdwJCJyMNK_puc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
